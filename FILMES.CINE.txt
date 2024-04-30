@@ -1,0 +1,714 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/36261
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/19
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/21
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/27
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/30
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/37
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/29
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/28
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/31
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/41472
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/41471
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/43
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/36
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/38
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/39
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/40
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/41
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://rtx.p9325.top:8080/ucEwc3t9hw/tUuKvtrw3z/42
+#EXTINF:-1, SEGUNDA LISTA
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/36261
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/19
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/21
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/27
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/30
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/37
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/29
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/28
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/31
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/41472
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/41471
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/43
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/36
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/38
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/39
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/40
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/41
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://rtx.p9325.top:8080/AjmYAQrs42/kruPTzTbSs/42
+#EXTINF:-1, TERCEIRA LISTA
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/36261
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/19
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/21
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL HD",TVCINE EMOTIONᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/23
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/27
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/30
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/37
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/29
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/28
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/31
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/41472
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/41471
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/43
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/36
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/38
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/39
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/40
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/41
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://rtx.p9325.top:8080/LrOYvBJ9Ew/aBw3fmrTmv/42
+#EXTINF:-1, QUARTA LISTA
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/36261
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/19
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/21
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL HD",TVCINE EMOTIONᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/23
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/27
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/30
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/37
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/29
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/28
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/31
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/41472
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/41471
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/43
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/36
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/38
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/39
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/40
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/41
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://rtx.p9325.top:8080/ZecaNF/jFgxhnP7zC/42
+#EXTINF:-1, QUINTA LISTA
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/36261
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/19
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/21
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL HD",TVCINE EMOTIONᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/23
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/27
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/30
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/37
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/29
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/28
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/31
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/41472
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/41471
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/43
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/36
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/38
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/39
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/40
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/41
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://rtx.p9325.top:8080/PuXsz8eZFb/qx49BEfCQd/42
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="CANAIS | HBO",HBO SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18743
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="https://i.pinimg.com/originals/20/e9/80/20e9809bf38687a67c65d63309dbb461.png" group-title="CANAIS | HBO",HBO 2 SD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/22352
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD¹" tvg-logo="https://i.pinimg.com/originals/a6/fd/c5/a6fdc5495a1a07ebc8fe692135d8de28.png" group-title="CANAIS | HBO",HBO FAMILY SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18739
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="CANAIS | HBO",HBO MUNDI SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18740
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD¹" tvg-logo="https://i.pinimg.com/originals/80/50/a0/8050a056da95a9914b41b7c5224421fa.png" group-title="CANAIS | HBO",HBO PLUS SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18741
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="CANAIS | HBO",HBO POP SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18742
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="https://i.pinimg.com/originals/9e/6c/aa/9e6caa815f658461e951c6f641a5c75c.png" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18744
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="https://i.pinimg.com/originals/17/1a/03/171a038725355d79efd25f80e27c2adf.png" group-title="CANAIS | HBO",HBO XTREME HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18841
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18774
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18869
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18871
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18778
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18779
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL SD²" tvg-logo="http://i.imgur.com/IN19GOO.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL SD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/22419
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER SD¹" tvg-logo="http://i.imgur.com/RuCNvi1.png" group-title="CANAIS | FILMES E SÉRIES",WARNER SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18785
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18910
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18911
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 03 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/22482
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 04 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18913
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 05 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18914
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Clássicos
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116574
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Sucessos
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116579
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Terror
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116580
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Filmes Ação
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116584
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Filmes Nacionais
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116585
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - TV Natureza
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/116591
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD MAX²" tvg-logo="http://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD MAX²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/54342
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD MAX²" tvg-logo="http://i.imgur.com/m6Q6egx.png" group-title="CANAIS | FILMES E SÉRIES",SONY FHD MAX²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/54350
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD MAX²" tvg-logo="http://i.imgur.com/JZyjyAx.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD MAX²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/54351
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CINE CANAL SD¹" tvg-logo="http://i.imgur.com/JfXDWr2.png" group-title="CANAIS | FILMES E SÉRIES",CINE CANAL SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18769
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL HD¹" tvg-logo="https://i.pinimg.com/originals/21/a2/23/21a223bfeadcd389c343509ae9026095.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18862
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="https://i.pinimg.com/originals/7f/55/f7/7f55f7d96c609d2d5b17d8f9e646b50b.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18766
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="http://i.imgur.com/CasscAC.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18770
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD¹" tvg-logo="http://i.imgur.com/wObhLpt.png" group-title="CANAIS | FILMES E SÉRIES",SYFY SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18771
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD¹" tvg-logo="http://i.imgur.com/xQJlpvw.png" group-title="CANAIS | FILMES E SÉRIES",TCM SD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18773
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD¹" tvg-logo="https://i.pinimg.com/originals/c3/03/e6/c303e66c02e112fab81d4e134e95769f.png" group-title="CANAIS | FILMES E SÉRIES",TNT HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18875
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD¹" tvg-logo="https://1.bp.blogspot.com/-05V2YzmzWX8/Xo-vi41lnTI/AAAAAAABkso/XIYtSWTe5sAtiS9sDTpoJwDe6f6CJ-OdgCLcBGAsYHQ/s640/tntseries_Turner.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/18876
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 1 HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/59969
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 2 HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/64734
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 3 HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/64707
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 4 HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/64708
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 5 HD¹
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/59972
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 6 HD²
+http://cdn7go.xyz:8080/NandoVasconcelos/Nandinho13/297173
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
